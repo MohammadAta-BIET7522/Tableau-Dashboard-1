@@ -41,12 +41,6 @@ The dashboard focuses on **Profit vs. Sales** and **Regional Customer Segmentati
 
 ---
 
-## 📸 Dashboard Preview
-*(Attach your Tableau dashboard screenshot)*  
-![Tableau Dashboard Screenshot](./Profit_Dashboard_Tableau.png)
-
----
-
 ## 🚀 How to Use
 1. Open the Tableau workbook (`.twb` or `.twbx` file).  
 2. Explore the **Profit by Region** and **Profit vs Sales** visuals interactively.  
